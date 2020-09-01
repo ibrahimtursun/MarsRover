@@ -1,0 +1,16 @@
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\bin\Debug\netcoreapp3.1\MarsRoverConsole.exe
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\bin\Debug\netcoreapp3.1\MarsRoverConsole.deps.json
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\bin\Debug\netcoreapp3.1\MarsRoverConsole.runtimeconfig.json
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\bin\Debug\netcoreapp3.1\MarsRoverConsole.runtimeconfig.dev.json
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\bin\Debug\netcoreapp3.1\MarsRoverConsole.dll
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\bin\Debug\netcoreapp3.1\MarsRoverConsole.pdb
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\bin\Debug\netcoreapp3.1\MarsRoverLibrary.dll
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\bin\Debug\netcoreapp3.1\MarsRoverLibrary.pdb
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\obj\Debug\netcoreapp3.1\MarsRoverConsole.csprojAssemblyReference.cache
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\obj\Debug\netcoreapp3.1\MarsRoverConsole.AssemblyInfoInputs.cache
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\obj\Debug\netcoreapp3.1\MarsRoverConsole.AssemblyInfo.cs
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\obj\Debug\netcoreapp3.1\MarsRoverConsole.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\obj\Debug\netcoreapp3.1\MarsRoverConsole.csproj.CopyComplete
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\obj\Debug\netcoreapp3.1\MarsRoverConsole.dll
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\obj\Debug\netcoreapp3.1\MarsRoverConsole.pdb
+C:\Users\ibrahim.tursun\source\repos\MarsRoverConsole\obj\Debug\netcoreapp3.1\MarsRoverConsole.genruntimeconfig.cache
